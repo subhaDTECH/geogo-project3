@@ -1,0 +1,11 @@
+.second-form{
+    
+    background-color: red;
+    animation: slide 0.5s alternate ease-in-out;
+    display: none;
+}
+.first-form{
+    background-color: red;
+    animation: slide 0.5s alternate ease-in-out;
+    display: none;
+}
